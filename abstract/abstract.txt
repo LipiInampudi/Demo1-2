@@ -1,0 +1,31 @@
+Velagapudi Ramakrishna Siddhartha Engineering CollegeDepartment of Information Technology
+Class: 3rdYear Section: B Year: 2020-2021
+Image Defogging Quality Assessment: Real-World Database
+Motivation:
+In the present busy worldImage defogging widely used in many applications, such as urban traffic monitoring, remote sensing, military reconnaissance, etc. Its purpose is to restore degraded images caused by fog.So we adopted this topic.
+
+Problem Description:
+
+Fog removal from an image is an active research topic in computer perception. However, current literature is weak in the following two areas which in many ways are inhibit progress for developing defogging algorithms. First, there is no true real-world and naturally occurring foggy image datasets suitable for developing defogging models. Second, there is no suitable mathematically simple and easy to use image quality assessment (IQA) methods for evaluating the visual quality of defogged images.
+Social Benefits:
+?	We can decrease traffic and accidents by informing people that which areas are more foggy in winter season
+?	Atmospheric light is estimated by quality assessment.
+
+Innovation and Uniqueness:
+We first introduce a new foggy image dataset called multiple real-world foggy image dataset (MRFID). MRFID contains foggy and clear images . For each scene, one clear image and 4 foggy images of different densities defined as slightly foggy, moderately foggy, highly foggy, and extremely foggy, are manually selected from images taken from these scenes over the course of one calendar year. 
+Feasible Solution:
+Through collecting the mean opinion score (MOS) of subjects and evaluating a variety of fog-relevant image features, we will develop a new Fog-relevant Feature based SIMilarity index (FRFSIM) for assessing the visual quality of DFIs.
+
+
+
+ROLL NUMBER	NAME	EMAIL-ID	PHONE NUMBER
+188W1A12B6	YARLAGADDA VYSHNAVI	Vyshnaviy06@gmail.com	9666297390
+188W1A1276	INAPANURTHI SWARUPA	Swarupa.inapanurthi@gmail.com	9381308125
+198W5A1214	YALAMARTHI SIREESHA
+	Yalamarthisiri263@gmail.com	9515048234
+198W5A1213	MUPPARAJU VENKATA APARNA	mupparajuaparna@gmail.com	6302272071
+
+									
+								DR.Y. SANGEETHA
+								       [FACULTY GUIDE]
+
